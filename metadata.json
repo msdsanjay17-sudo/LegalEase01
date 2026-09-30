@@ -1,0 +1,6 @@
+{
+  "name": "LegalEase: AI",
+  "description": "AI-powered legal information and document-assistance assistant providing plain-language legal analysis, contract review, document drafting, and case timeline organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
